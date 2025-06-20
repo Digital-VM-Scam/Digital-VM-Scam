@@ -12,6 +12,9 @@ I purchased two VPS servers from this company. One of them was shut down by them
 ## Update on June 14, 2025:
 My other server, which was running normally, has now been shut down by Digital-VM.com…
 
+## Update on June 20, 2025:
+This company consistently ignored my issues, then went ahead and deleted my account from their system. Effectively, they've stolen my money. This was my mistake – I had the bad luck of getting scammed by digital-vm. Learn from my lesson: don't fall for their tricks. I hope this scam operation gets shut down for good, and that they spend the rest of their lives using their ill-gotten money to treat incurable diseases!"
+
 
 ## 警惕: Digital-VM.com 是个诈骗公司!
 我刚被Digital-VM.com骗了钱，提醒每个人不要上当了！ 这是一个人的（one-man）公司，没有客服、技术、销售，原来叫virpus.com，欺骗了很多人后，又改个名字叫Digital-VM.com继续在网络上诈骗。这是一家垃圾公司，提醒每个人不要像我一样上当！
@@ -21,3 +24,7 @@ My other server, which was running normally, has now been shut down by Digital-V
 
 ## 2025年6月14号更新：
 我的另一个正常运行的服务器被digital-vm.com关闭了……
+
+## 2025年6月20号更新：
+这家公司Digital-VM.com始终不处理的我的问题，还把我的账号从他们系统中删除了，所以他们已经成功把我的钱骗走了。这是我的错误，运气不好被他们digital-vm欺骗了，请大家吸取我的教训，不要再上当，祝愿让这样的骗子公司彻底倒闭，一辈子用骗来的钱治疗他们的不治之症！
+
